@@ -1,5 +1,8 @@
 ### Hi, I am Hristo Gospodinov! 👋
 
+[![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/hristo.valeriev/)
+[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/hristovaleriev/) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hristo-gospodinov-4216709a/) 
 <!--
 **hristogospodinov/hristogospodinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
